@@ -25,7 +25,7 @@ import java.util.List;
 
 /**
  * A placeholder fragment containing a simple view.
- */
+ *////commentPrakriti
 public class MainActivityFragment extends Fragment {
 
     public MainActivityFragment() {
