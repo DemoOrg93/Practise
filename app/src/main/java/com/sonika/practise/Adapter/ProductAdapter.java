@@ -23,7 +23,6 @@ import java.util.List;
  */
 
 public class ProductAdapter extends RecyclerView.Adapter<ProductHolder> {
-
     public Context context;
     private List<ProductObject> productList;
 
